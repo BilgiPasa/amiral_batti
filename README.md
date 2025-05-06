@@ -1,5 +1,5 @@
 # amiral_batti
 
-Bu, Python'da yapılmış basit bir amiral battı oyunudur. Oyunun kodu, "other_things" isimli klasörün içinde bulunmakta.
+Bu, Python'da yapılmış basit bir amiral battı oyunudur. Oyunun kodu da mevcuttur. İsterseniz göz gezdirebilirsiniz.
 
-This is a simple battleship game that made in Python. The game's code is in the folder named "other_things".
+This is a simple battleship game that made in Python. The code of the game is avalible. You can look if you want.
